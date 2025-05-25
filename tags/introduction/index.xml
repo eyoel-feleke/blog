@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Etusb&#39;s Blog</title>
+    <link>http://localhost:1313/tags/introduction/</link>
+    <description>Recent content in Introduction on Etusb&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 May 2025 14:20:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m Etsub Feleke (እጹብ ፈለቀ),  a passionate data scientist and software engineer with a keen interest in machine learning and artificial intelligence. I love exploring new technologies and applying them to solve real-world problems.&#xA;I have a background in computer science and have worked on various projects ranging from data analysis to building machine learning models. My goal is to leverage data to drive insights and create impactful solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
