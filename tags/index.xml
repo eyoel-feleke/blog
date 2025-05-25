@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Etusb&#39;s Blog</title>
-    <link>https://eyoel-feleke.github.io/blog/tags/</link>
+    <link>http://localhost:1313/blog/tags/</link>
     <description>Recent content in Tags on Etusb&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 May 2025 14:20:57 -0500</lastBuildDate>
-    <atom:link href="https://eyoel-feleke.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/about/</link>
+      <link>http://localhost:1313/blog/tags/about/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/about/</guid>
+      <guid>http://localhost:1313/blog/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/example/</link>
+      <link>http://localhost:1313/blog/tags/example/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/example/</guid>
+      <guid>http://localhost:1313/blog/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>First-Post</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/first-post/</link>
+      <link>http://localhost:1313/blog/tags/first-post/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/first-post/</guid>
+      <guid>http://localhost:1313/blog/tags/first-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/introduction/</link>
+      <link>http://localhost:1313/blog/tags/introduction/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/introduction/</guid>
+      <guid>http://localhost:1313/blog/tags/introduction/</guid>
       <description></description>
     </item>
     <item>
       <title>Second-Post</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/second-post/</link>
+      <link>http://localhost:1313/blog/tags/second-post/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/second-post/</guid>
+      <guid>http://localhost:1313/blog/tags/second-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Configuration</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/configuration/</link>
+      <link>http://localhost:1313/blog/tags/configuration/</link>
       <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/configuration/</guid>
+      <guid>http://localhost:1313/blog/tags/configuration/</guid>
       <description></description>
     </item>
     <item>
       <title>Installation</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/installation/</link>
+      <link>http://localhost:1313/blog/tags/installation/</link>
       <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/installation/</guid>
+      <guid>http://localhost:1313/blog/tags/installation/</guid>
       <description></description>
     </item>
     <item>
       <title>Content</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/content/</link>
+      <link>http://localhost:1313/blog/tags/content/</link>
       <pubDate>Thu, 05 Mar 2020 15:58:26 +0800</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/content/</guid>
+      <guid>http://localhost:1313/blog/tags/content/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/markdown/</link>
+      <link>http://localhost:1313/blog/tags/markdown/</link>
       <pubDate>Thu, 05 Mar 2020 15:58:26 +0800</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/markdown/</guid>
+      <guid>http://localhost:1313/blog/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/shortcodes/</link>
+      <link>http://localhost:1313/blog/tags/shortcodes/</link>
       <pubDate>Wed, 04 Mar 2020 16:29:41 +0800</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/blog/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/html/</link>
+      <link>http://localhost:1313/blog/tags/html/</link>
       <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/html/</guid>
+      <guid>http://localhost:1313/blog/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>https://eyoel-feleke.github.io/blog/tags/emoji/</link>
+      <link>http://localhost:1313/blog/tags/emoji/</link>
       <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
-      <guid>https://eyoel-feleke.github.io/blog/tags/emoji/</guid>
+      <guid>http://localhost:1313/blog/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
