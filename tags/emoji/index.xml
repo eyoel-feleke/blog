@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emoji on Etusb&#39;s Blog</title>
-    <link>http://example.org/tags/emoji/</link>
+    <link>https://eyoel-feleke.github.io/blog/tags/emoji/</link>
     <description>Recent content in Emoji on Etusb&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Oct 2019 17:55:28 +0800</lastBuildDate>
-    <atom:link href="http://example.org/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eyoel-feleke.github.io/blog/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>http://example.org/posts/emoji-support/</link>
+      <link>https://eyoel-feleke.github.io/blog/posts/emoji-support/</link>
       <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
-      <guid>http://example.org/posts/emoji-support/</guid>
+      <guid>https://eyoel-feleke.github.io/blog/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Etusb&#39;s Blog</title>
-    <link>http://example.org/categories/introduction/</link>
+    <link>https://eyoel-feleke.github.io/blog/categories/introduction/</link>
     <description>Recent content in Introduction on Etusb&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 May 2025 14:20:57 -0500</lastBuildDate>
-    <atom:link href="http://example.org/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eyoel-feleke.github.io/blog/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://example.org/about-me/</link>
+      <link>https://eyoel-feleke.github.io/blog/about-me/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://example.org/about-me/</guid>
+      <guid>https://eyoel-feleke.github.io/blog/about-me/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m Etsub Feleke (እጹብ ፈለቀ),  a passionate data scientist and software engineer with a keen interest in machine learning and artificial intelligence. I love exploring new technologies and applying them to solve real-world problems.&#xA;I have a background in computer science and have worked on various projects ranging from data analysis to building machine learning models. My goal is to leverage data to drive insights and create impactful solutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/cs-1234/my-first-post/</link>
+      <link>https://eyoel-feleke.github.io/blog/posts/cs-1234/my-first-post/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://example.org/posts/cs-1234/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;this-is-going-to-be-my-new-post&#34;&gt;This is going to be my new post.&lt;/h1&gt;&#xA;&lt;pre&gt;&lt;code&gt;Details will go here&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h2 id=&#34;code-block&#34;&gt;Code block&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;hello_world&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;():&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hello_world&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-Output&#34; data-lang=&#34;Output&#34;&gt;# Hello World!&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;adding-image-here&#34;&gt;Adding image here&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://example.org/images/habesha-data-scientist.png&#34;&#xA;    alt=&#34;Placeholder Image&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;This is a placeholder image.&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://eyoel-feleke.github.io/blog/posts/cs-1234/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;this-is-going-to-be-my-new-post&#34;&gt;This is going to be my new post.&lt;/h1&gt;&#xA;&lt;pre&gt;&lt;code&gt;Details will go here&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h2 id=&#34;code-block&#34;&gt;Code block&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;hello_world&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;():&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hello_world&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-Output&#34; data-lang=&#34;Output&#34;&gt;# Hello World!&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;adding-image-here&#34;&gt;Adding image here&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://eyoel-feleke.github.io/blog/images/habesha-data-scientist.png&#34;&#xA;    alt=&#34;Placeholder Image&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;This is a placeholder image.&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
