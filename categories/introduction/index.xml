@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Etusb</title>
-    <link>http://localhost:1313/blog/categories/introduction/</link>
+    <link>https://eyoel-feleke.github.io/blog/categories/introduction/</link>
     <description>Recent content in Introduction on Etusb</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 May 2025 14:20:57 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eyoel-feleke.github.io/blog/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/blog/about/</link>
+      <link>https://eyoel-feleke.github.io/blog/about/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://localhost:1313/blog/about/</guid>
+      <guid>https://eyoel-feleke.github.io/blog/about/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m Etsub Feleke (እጹብ ፈለቀ),  a passionate data scientist and software engineer with a keen interest in machine learning and artificial intelligence. I love exploring new technologies and applying them to solve real-world problems.&#xA;I have a background in computer science and have worked on various projects ranging from data analysis to building machine learning models. My goal is to leverage data to drive insights and create impactful solutions.&lt;/p&gt;</description>
     </item>
   </channel>

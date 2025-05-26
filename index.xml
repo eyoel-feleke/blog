@@ -1,146 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Etusb</title>
-        <link>http://localhost:1313/blog/</link>
+        <link>https://eyoel-feleke.github.io/blog/</link>
         <description>This is my KeepIt site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 25 May 2025 19:32:13 -0500</lastBuildDate>
-            <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://eyoel-feleke.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Another Post</title>
-    <link>http://localhost:1313/blog/another-post/</link>
-    <pubDate>Sun, 25 May 2025 19:32:13 -0500</pubDate>
-    <author>Etsub</author>
-    <guid>http://localhost:1313/blog/another-post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/default-featured-image.png" referrerpolicy="no-referrer">
-            </div><h1 id="another-post">Another Post</h1>
-<h2 id="introduction">Introduction</h2>
-<p>Briefly introduce the topic of your post.</p>
-<hr>
-<h2 id="table-of-contents">Table of Contents</h2>
-<ul>
-<li><a href="#-replace-filecontentbasename------title-" rel="">Another Post</a>
-
-<ul>
-<li><a href="#introduction" rel="">Introduction</a>
-</li>
-<li><a href="#table-of-contents" rel="">Table of Contents</a>
-</li>
-<li><a href="#background" rel="">Background</a>
-</li>
-<li><a href="#code-example" rel="">Code Example</a>
-</li>
-<li><a href="#image-example" rel="">Image Example</a>
-</li>
-<li><a href="#quote" rel="">Quote</a>
-</li>
-<li><a href="#list-example" rel="">List Example</a>
-</li>
-<li><a href="#math-example" rel="">Math Example</a>
-</li>
-<li><a href="#conclusion" rel="">Conclusion</a>
-</li>
-<li><a href="#further-reading" rel="">Further Reading</a>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="background">Background</h2>
-<p>Provide background information or context.</p>
-<hr>
-<h2 id="code-example">Code Example</h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="c1">// Example Go code block</span>
-</span></span><span class="line"><span class="cl"><span class="kn">package</span> <span class="nx">main</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="s">&#34;fmt&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="kd">func</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="s">&#34;Hello, Hugo!&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span></code></pre></div><hr>
-<h2 id="image-example">Image Example</h2>
-<p></p>
-<hr>
-<h2 id="quote">Quote</h2>
-<blockquote>
-<p>“This is a blockquote example for emphasis or citation.”</p>]]></description>
-</item>
-<item>
-    <title>Learning RAG From Scratch</title>
-    <link>http://localhost:1313/blog/learning-rag-from-scratch/</link>
-    <pubDate>Sun, 25 May 2025 19:19:15 -0500</pubDate>
-    <author>Etsub</author>
-    <guid>http://localhost:1313/blog/learning-rag-from-scratch/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/default-featured-image.png" referrerpolicy="no-referrer">
-            </div><h1 id="learning-rag-from-scratch">Learning RAG From Scratch</h1>
-<h2 id="introduction">Introduction</h2>
-<p>Briefly introduce the topic of your post.</p>
-<hr>
-<h2 id="table-of-contents">Table of Contents</h2>
-<ul>
-<li><a href="#learning-rag-from-scratch" rel="">Learning RAG From Scratch</a>
-
-<ul>
-<li><a href="#introduction" rel="">Introduction</a>
-</li>
-<li><a href="#table-of-contents" rel="">Table of Contents</a>
-</li>
-<li><a href="#background" rel="">Background</a>
-</li>
-<li><a href="#code-example" rel="">Code Example</a>
-</li>
-<li><a href="#image-example" rel="">Image Example</a>
-</li>
-<li><a href="#quote" rel="">Quote</a>
-</li>
-<li><a href="#list-example" rel="">List Example</a>
-</li>
-<li><a href="#math-example" rel="">Math Example</a>
-</li>
-<li><a href="#conclusion" rel="">Conclusion</a>
-</li>
-<li><a href="#further-reading" rel="">Further Reading</a>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="background">Background</h2>
-<p>Provide background information or context.</p>
-<hr>
-<h2 id="code-example">Code Example</h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="c1">// Example Go code block</span>
-</span></span><span class="line"><span class="cl"><span class="kn">package</span> <span class="nx">main</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="s">&#34;fmt&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="kd">func</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="s">&#34;Hello, Hugo!&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span></code></pre></div><hr>
-<h2 id="image-example">Image Example</h2>
-<p></p>]]></description>
-</item>
-<item>
-    <title>Learning LLMs From Scratch</title>
-    <link>http://localhost:1313/blog/learning-llms-from-scratch/</link>
-    <pubDate>Sun, 25 May 2025 19:15:26 -0500</pubDate>
-    <author>Etsub</author>
-    <guid>http://localhost:1313/blog/learning-llms-from-scratch/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/default-featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Add a brief introduction or summary of your post here. This section can be used to give readers an overview of what to expect in the post.</p>
-<h1 id="learning-llms-from-scratch">Learning LLMs From Scratch</h1>
-<p>This post is a work in progress, where I will document my journey of learning about Large Language Models (LLMs) from scratch. The goal is to build a foundational understanding of LLMs, their architecture, and how they can be implemented.</p>]]></description>
-</item>
-<item>
     <title>My First Post</title>
-    <link>http://localhost:1313/blog/my-first-post/</link>
+    <link>https://eyoel-feleke.github.io/blog/my-first-post/</link>
     <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
     <author>Etsub</author>
-    <guid>http://localhost:1313/blog/my-first-post/</guid>
+    <guid>https://eyoel-feleke.github.io/blog/my-first-post/</guid>
     <description><![CDATA[<h1 id="this-is-going-to-be-my-new-post">This is going to be my new post.</h1>
 <p>Details will go here</p>
 <h2 id="code-block">Code block</h2>
@@ -168,10 +38,10 @@
 </item>
 <item>
     <title>My Second Post</title>
-    <link>http://localhost:1313/blog/my-second-post/</link>
+    <link>https://eyoel-feleke.github.io/blog/my-second-post/</link>
     <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
     <author>Etsub</author>
-    <guid>http://localhost:1313/blog/my-second-post/</guid>
+    <guid>https://eyoel-feleke.github.io/blog/my-second-post/</guid>
     <description><![CDATA[<h1 id="this-is-going-to-be-my-second-post">This is going to be my second post.</h1>
 <p>The details of the post will go here. I&rsquo;m adding code blocks and images to demonstrate how they can be included in a Hugo site.</p>
 <h2 id="code-block">Code block</h2>

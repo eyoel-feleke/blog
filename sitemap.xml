@@ -2,23 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/blog/another-post/</loc><lastmod>2025-05-25T19:32:13-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/</loc><lastmod>2025-05-25T19:32:13-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/posts/</loc><lastmod>2025-05-25T19:32:13-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/categories/</loc><lastmod>2025-05-25T19:19:15-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/tags/learning/</loc><lastmod>2025-05-25T19:19:15-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/learning-rag-from-scratch/</loc><lastmod>2025-05-25T19:19:15-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/categories/llms/</loc><lastmod>2025-05-25T19:19:15-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/tags/llms/</loc><lastmod>2025-05-25T19:19:15-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/tags/rag/</loc><lastmod>2025-05-25T19:19:15-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/tags/</loc><lastmod>2025-05-25T19:19:15-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/learning-llms-from-scratch/</loc><lastmod>2025-05-25T19:15:26-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/tags/machine-learning/</loc><lastmod>2025-05-25T19:15:26-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/tags/natural-language-processing/</loc><lastmod>2025-05-25T19:15:26-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/about/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/categories/introduction/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/tags/introduction/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/categories/learning/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/my-first-post/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/my-second-post/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/blog/authors/</loc></url></urlset>
+            <loc>https://eyoel-feleke.github.io/blog/</loc><lastmod>2025-05-25T19:32:13-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/posts/</loc><lastmod>2025-05-25T19:32:13-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/about/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/categories/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/categories/introduction/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/tags/introduction/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/categories/learning/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/tags/learning/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/my-first-post/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/my-second-post/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/tags/</loc><lastmod>2025-05-24T14:20:57-05:00</lastmod></url><url>
+            <loc>https://eyoel-feleke.github.io/blog/authors/</loc></url></urlset>
