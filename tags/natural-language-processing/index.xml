@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural Language Processing on Etusb</title>
-    <link>http://localhost:1313/blog/tags/natural-language-processing/</link>
+    <link>https://eyoel-feleke.github.io/blog/tags/natural-language-processing/</link>
     <description>Recent content in Natural Language Processing on Etusb</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 May 2025 19:15:26 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eyoel-feleke.github.io/blog/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning LLMs From Scratch</title>
-      <link>http://localhost:1313/blog/learning-llms-from-scratch/</link>
+      <link>https://eyoel-feleke.github.io/blog/learning-llms-from-scratch/</link>
       <pubDate>Sun, 25 May 2025 19:15:26 -0500</pubDate>
-      <guid>http://localhost:1313/blog/learning-llms-from-scratch/</guid>
+      <guid>https://eyoel-feleke.github.io/blog/learning-llms-from-scratch/</guid>
       <description>&lt;p&gt;Add a brief introduction or summary of your post here. This section can be used to give readers an overview of what to expect in the post.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-llms-from-scratch&#34;&gt;Learning LLMs From Scratch&lt;/h1&gt;&#xA;&lt;p&gt;This post is a work in progress, where I will document my journey of learning about Large Language Models (LLMs) from scratch. The goal is to build a foundational understanding of LLMs, their architecture, and how they can be implemented.&lt;/p&gt;</description>
     </item>
   </channel>

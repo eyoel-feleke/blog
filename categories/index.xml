@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Etusb</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 May 2025 14:20:57 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 19:19:15 -0500</lastBuildDate>
     <atom:link href="https://eyoel-feleke.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLMs</title>
+      <link>https://eyoel-feleke.github.io/blog/categories/llms/</link>
+      <pubDate>Sun, 25 May 2025 19:19:15 -0500</pubDate>
+      <guid>https://eyoel-feleke.github.io/blog/categories/llms/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://eyoel-feleke.github.io/blog/categories/introduction/</link>
