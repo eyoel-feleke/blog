@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Etusb&#39;s Blog</title>
+    <title>Categories on Etusb</title>
     <link>http://localhost:1313/blog/categories/</link>
-    <description>Recent content in Categories on Etusb&#39;s Blog</description>
+    <description>Recent content in Categories on Etusb</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 May 2025 14:20:57 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 19:19:15 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/categories/blog/</link>
-      <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://localhost:1313/blog/categories/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Education</title>
-      <link>http://localhost:1313/blog/categories/education/</link>
-      <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://localhost:1313/blog/categories/education/</guid>
+      <title>LLMs</title>
+      <link>http://localhost:1313/blog/categories/llms/</link>
+      <pubDate>Sun, 25 May 2025 19:19:15 -0500</pubDate>
+      <guid>http://localhost:1313/blog/categories/llms/</guid>
       <description></description>
     </item>
     <item>
@@ -30,24 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>Personal</title>
-      <link>http://localhost:1313/blog/categories/personal/</link>
+      <title>Learning</title>
+      <link>http://localhost:1313/blog/categories/learning/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://localhost:1313/blog/categories/personal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Documentation</title>
-      <link>http://localhost:1313/blog/categories/documentation/</link>
-      <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
-      <guid>http://localhost:1313/blog/categories/documentation/</guid>
-      <description>&lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;&#xA;&lt;p&gt;This section contains documentation for the project, including setup instructions, usage guidelines, and API references.&lt;/p&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;To get started with the project, follow these steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Clone the repository:&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone    &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/blog/categories/markdown/</link>
-      <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate>
-      <guid>http://localhost:1313/blog/categories/markdown/</guid>
+      <guid>http://localhost:1313/blog/categories/learning/</guid>
       <description></description>
     </item>
   </channel>

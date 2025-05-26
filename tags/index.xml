@@ -1,32 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Etusb&#39;s Blog</title>
+    <title>Tags on Etusb</title>
     <link>http://localhost:1313/blog/tags/</link>
-    <description>Recent content in Tags on Etusb&#39;s Blog</description>
+    <description>Recent content in Tags on Etusb</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 May 2025 14:20:57 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 19:19:15 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/blog/tags/about/</link>
-      <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://localhost:1313/blog/tags/about/</guid>
+      <title>Learning</title>
+      <link>http://localhost:1313/blog/tags/learning/</link>
+      <pubDate>Sun, 25 May 2025 19:19:15 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tags/learning/</guid>
       <description></description>
     </item>
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/blog/tags/example/</link>
-      <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://localhost:1313/blog/tags/example/</guid>
+      <title>LLMs</title>
+      <link>http://localhost:1313/blog/tags/llms/</link>
+      <pubDate>Sun, 25 May 2025 19:19:15 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tags/llms/</guid>
       <description></description>
     </item>
     <item>
-      <title>First-Post</title>
-      <link>http://localhost:1313/blog/tags/first-post/</link>
-      <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://localhost:1313/blog/tags/first-post/</guid>
+      <title>RAG</title>
+      <link>http://localhost:1313/blog/tags/rag/</link>
+      <pubDate>Sun, 25 May 2025 19:19:15 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tags/rag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/blog/tags/machine-learning/</link>
+      <pubDate>Sun, 25 May 2025 19:15:26 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natural Language Processing</title>
+      <link>http://localhost:1313/blog/tags/natural-language-processing/</link>
+      <pubDate>Sun, 25 May 2025 19:15:26 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     <item>
@@ -34,62 +48,6 @@
       <link>http://localhost:1313/blog/tags/introduction/</link>
       <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
       <guid>http://localhost:1313/blog/tags/introduction/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Second-Post</title>
-      <link>http://localhost:1313/blog/tags/second-post/</link>
-      <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
-      <guid>http://localhost:1313/blog/tags/second-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Configuration</title>
-      <link>http://localhost:1313/blog/tags/configuration/</link>
-      <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
-      <guid>http://localhost:1313/blog/tags/configuration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Installation</title>
-      <link>http://localhost:1313/blog/tags/installation/</link>
-      <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
-      <guid>http://localhost:1313/blog/tags/installation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Content</title>
-      <link>http://localhost:1313/blog/tags/content/</link>
-      <pubDate>Thu, 05 Mar 2020 15:58:26 +0800</pubDate>
-      <guid>http://localhost:1313/blog/tags/content/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/blog/tags/markdown/</link>
-      <pubDate>Thu, 05 Mar 2020 15:58:26 +0800</pubDate>
-      <guid>http://localhost:1313/blog/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/blog/tags/shortcodes/</link>
-      <pubDate>Wed, 04 Mar 2020 16:29:41 +0800</pubDate>
-      <guid>http://localhost:1313/blog/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HTML</title>
-      <link>http://localhost:1313/blog/tags/html/</link>
-      <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate>
-      <guid>http://localhost:1313/blog/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>http://localhost:1313/blog/tags/emoji/</link>
-      <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
-      <guid>http://localhost:1313/blog/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

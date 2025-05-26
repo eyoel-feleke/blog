@@ -1,94 +1,342 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Etusb&#39;s Blog</title>
+        <title>All Posts - Etusb</title>
         <link>http://localhost:1313/blog/posts/</link>
-        <description>All Posts | Etusb&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 24 May 2025 14:20:57 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Theme Documentation - Basics</title>
-    <link>http://localhost:1313/blog/posts/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/theme-documentation-basics/</guid>
-    <description><![CDATA[<p>Discover what the Hugo - <strong>KeepIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
+        <description>All Posts | Etusb</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 25 May 2025 19:32:13 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Another Post</title>
+    <link>http://localhost:1313/blog/another-post/</link>
+    <pubDate>Sun, 25 May 2025 19:32:13 -0500</pubDate>
+    <author>Etsub</author>
+    <guid>http://localhost:1313/blog/another-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/default-featured-image.png" referrerpolicy="no-referrer">
+            </div><h1 id="another-post">Another Post</h1>
+<h2 id="introduction">Introduction</h2>
+<p>Briefly introduce the topic of your post.</p>
+<hr>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="#-replace-filecontentbasename------title-" rel="">Another Post</a>
+
+<ul>
+<li><a href="#introduction" rel="">Introduction</a>
+</li>
+<li><a href="#table-of-contents" rel="">Table of Contents</a>
+</li>
+<li><a href="#background" rel="">Background</a>
+</li>
+<li><a href="#code-example" rel="">Code Example</a>
+</li>
+<li><a href="#image-example" rel="">Image Example</a>
+</li>
+<li><a href="#quote" rel="">Quote</a>
+</li>
+<li><a href="#list-example" rel="">List Example</a>
+</li>
+<li><a href="#math-example" rel="">Math Example</a>
+</li>
+<li><a href="#conclusion" rel="">Conclusion</a>
+</li>
+<li><a href="#further-reading" rel="">Further Reading</a>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="background">Background</h2>
+<p>Provide background information or context.</p>
+<hr>
+<h2 id="code-example">Code Example</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="c1">// Example Go code block</span>
+</span></span><span class="line"><span class="cl"><span class="kn">package</span> <span class="nx">main</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="s">&#34;fmt&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kd">func</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="s">&#34;Hello, Hugo!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><hr>
+<h2 id="image-example">Image Example</h2>
+<p></p>
+<hr>
+<h2 id="quote">Quote</h2>
+<blockquote>
+<p>“This is a blockquote example for emphasis or citation.”</p>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - Content</title>
-    <link>http://localhost:1313/blog/posts/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/theme-documentation-content/</guid>
-    <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>KeepIt</strong> theme.</p>]]></description>
+    <title>Learning RAG From Scratch</title>
+    <link>http://localhost:1313/blog/learning-rag-from-scratch/</link>
+    <pubDate>Sun, 25 May 2025 19:19:15 -0500</pubDate>
+    <author>Etsub</author>
+    <guid>http://localhost:1313/blog/learning-rag-from-scratch/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/default-featured-image.png" referrerpolicy="no-referrer">
+            </div><h1 id="learning-rag-from-scratch">Learning RAG From Scratch</h1>
+<h2 id="introduction">Introduction</h2>
+<p>Briefly introduce the topic of your post.</p>
+<hr>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="#learning-rag-from-scratch" rel="">Learning RAG From Scratch</a>
+
+<ul>
+<li><a href="#introduction" rel="">Introduction</a>
+</li>
+<li><a href="#table-of-contents" rel="">Table of Contents</a>
+</li>
+<li><a href="#background" rel="">Background</a>
+</li>
+<li><a href="#code-example" rel="">Code Example</a>
+</li>
+<li><a href="#image-example" rel="">Image Example</a>
+</li>
+<li><a href="#quote" rel="">Quote</a>
+</li>
+<li><a href="#list-example" rel="">List Example</a>
+</li>
+<li><a href="#math-example" rel="">Math Example</a>
+</li>
+<li><a href="#conclusion" rel="">Conclusion</a>
+</li>
+<li><a href="#further-reading" rel="">Further Reading</a>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="background">Background</h2>
+<p>Provide background information or context.</p>
+<hr>
+<h2 id="code-example">Code Example</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="c1">// Example Go code block</span>
+</span></span><span class="line"><span class="cl"><span class="kn">package</span> <span class="nx">main</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="s">&#34;fmt&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kd">func</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="s">&#34;Hello, Hugo!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><hr>
+<h2 id="image-example">Image Example</h2>
+<p></p>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>http://localhost:1313/blog/posts/theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
+    <title>Learning LLMs From Scratch</title>
+    <link>http://localhost:1313/blog/learning-llms-from-scratch/</link>
+    <pubDate>Sun, 25 May 2025 19:15:26 -0500</pubDate>
+    <author>Etsub</author>
+    <guid>http://localhost:1313/blog/learning-llms-from-scratch/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/default-featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Add a brief introduction or summary of your post here. This section can be used to give readers an overview of what to expect in the post.</p>
+<h1 id="learning-llms-from-scratch">Learning LLMs From Scratch</h1>
+<p>This post is a work in progress, where I will document my journey of learning about Large Language Models (LLMs) from scratch. The goal is to build a foundational understanding of LLMs, their architecture, and how they can be implemented.</p>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - Extended Shortcodes</title>
-    <link>http://localhost:1313/blog/posts/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[<p><strong>KeepIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
+    <title>My First Post</title>
+    <link>http://localhost:1313/blog/my-first-post/</link>
+    <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
+    <author>Etsub</author>
+    <guid>http://localhost:1313/blog/my-first-post/</guid>
+    <description><![CDATA[<h1 id="this-is-going-to-be-my-new-post">This is going to be my new post.</h1>
+<p>Details will go here</p>
+<h2 id="code-block">Code block</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Hello, World!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">hello_world</span><span class="p">()</span>
+</span></span></code></pre></div><pre tabindex="0"><code class="language-Output" data-lang="Output"># Hello World!
+</code></pre><h2 id="adding-image">Adding image here</h2>
+<figure><figcaption>
+      <p>This is a placeholder image.</p>
+    </figcaption>
+</figure>
+
+<h3 id="section">Section</h3>
+<p>This is a section within the post. It can contain additional information, links, or any other content you want to include.</p>
+<h3 id="gist">gist</h3>
+<script src="https://gist.github.com/eyoel-feleke/f709fe41a1f98280c550a04bdafc2783.js"></script>
+
+<h3 id="highlight">highlight</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Hello, World!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">hello_world</span><span class="p">()</span></span></span></code></pre></div>
+<h3 id="param">param</h3>
+<p>param is a way to pass parameters to the shortcode. It can be used to customize the output of the shortcode based on the provided value.</p>]]></description>
 </item>
 <item>
-    <title>Basic Markdown Syntax</title>
-    <link>http://localhost:1313/blog/posts/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mermaid Shortcode</title>
-    <link>http://localhost:1313/blog/posts/theme-documentation-mermaid-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 15:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/theme-documentation-mermaid-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/Fastbyte01/KeepIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer">Mermaid</a>
- library.</p>]]></description>
-</item>
-<item>
-    <title>Emoji Support</title>
-    <link>http://localhost:1313/blog/posts/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - echarts Shortcode</title>
-    <link>http://localhost:1313/blog/posts/theme-documentation-echarts-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 14:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/theme-documentation-echarts-shortcode/</guid>
-    <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer">ECharts</a>
- library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mapbox Shortcode</title>
-    <link>http://localhost:1313/blog/posts/theme-documentation-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/theme-documentation-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/Fastbyte01/KeepIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer">Mapbox GL JS</a>
- library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - music Shortcode</title>
-    <link>http://localhost:1313/blog/posts/theme-documentation-music-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:1313/blog/posts/theme-documentation-music-shortcode/</guid>
-    <description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer">APlayer</a>
- and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer">MetingJS</a>
-.</p>]]></description>
+    <title>My Second Post</title>
+    <link>http://localhost:1313/blog/my-second-post/</link>
+    <pubDate>Sat, 24 May 2025 14:20:57 -0500</pubDate>
+    <author>Etsub</author>
+    <guid>http://localhost:1313/blog/my-second-post/</guid>
+    <description><![CDATA[<h1 id="this-is-going-to-be-my-second-post">This is going to be my second post.</h1>
+<p>The details of the post will go here. I&rsquo;m adding code blocks and images to demonstrate how they can be included in a Hugo site.</p>
+<h2 id="code-block">Code block</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Hello, World!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">hello_world</span><span class="p">()</span>
+</span></span></code></pre></div><pre tabindex="0"><code class="language-Output" data-lang="Output"># Hello World!
+</code></pre><h2 id="adding-image-here">Adding image here</h2>
+<figure><figcaption>
+      <p>This is a placeholder image.</p>
+    </figcaption>
+</figure>
+
+<h2 id="adding-a-csv-file">Adding a csv file</h2>
+
+    
+        
+            <table>
+                <thead>
+                    <tr>
+                        
+                            <th>ID</th>
+                        
+                            <th>Breed</th>
+                        
+                            <th>Age</th>
+                        
+                            <th>Weight (kg)</th>
+                        
+                            <th>Milk Production (L/day)</th>
+                        
+                            <th>Location</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                        <tr>
+                            
+                                <td>1</td>
+                            
+                                <td>Holstein</td>
+                            
+                                <td>4</td>
+                            
+                                <td>650</td>
+                            
+                                <td>30</td>
+                            
+                                <td>Texas</td>
+                            
+                        </tr>
+                    
+                        <tr>
+                            
+                                <td>2</td>
+                            
+                                <td>Jersey</td>
+                            
+                                <td>3</td>
+                            
+                                <td>500</td>
+                            
+                                <td>25</td>
+                            
+                                <td>California</td>
+                            
+                        </tr>
+                    
+                        <tr>
+                            
+                                <td>3</td>
+                            
+                                <td>Guernsey</td>
+                            
+                                <td>5</td>
+                            
+                                <td>600</td>
+                            
+                                <td>28</td>
+                            
+                                <td>Wisconsin</td>
+                            
+                        </tr>
+                    
+                        <tr>
+                            
+                                <td>4</td>
+                            
+                                <td>Angus</td>
+                            
+                                <td>2</td>
+                            
+                                <td>700</td>
+                            
+                                <td>0</td>
+                            
+                                <td>Montana</td>
+                            
+                        </tr>
+                    
+                        <tr>
+                            
+                                <td>5</td>
+                            
+                                <td>Brown Swiss</td>
+                            
+                                <td>6</td>
+                            
+                                <td>680</td>
+                            
+                                <td>32</td>
+                            
+                                <td>New York</td>
+                            
+                        </tr>
+                    
+                        <tr>
+                            
+                                <td>6</td>
+                            
+                                <td>Ayrshire</td>
+                            
+                                <td>4</td>
+                            
+                                <td>620</td>
+                            
+                                <td>27</td>
+                            
+                                <td>Idaho</td>
+                            
+                        </tr>
+                    
+                        <tr>
+                            
+                                <td>7</td>
+                            
+                                <td>Hereford</td>
+                            
+                                <td>3</td>
+                            
+                                <td>720</td>
+                            
+                                <td>0</td>
+                            
+                                <td>Nebraska</td>
+                            
+                        </tr>
+                    
+                        <tr>
+                            
+                                <td>8</td>
+                            
+                                <td>Shorthorn</td>
+                            
+                                <td>5</td>
+                            
+                                <td>690</td>
+                            
+                                <td>29</td>
+                            
+                                <td>Ohio</td>
+                            
+                        </tr>
+                    
+                </tbody>
+            </table>]]></description>
 </item>
 </channel>
 </rss>
